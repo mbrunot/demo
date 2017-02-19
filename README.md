@@ -1,2 +1,1 @@
-# demo
-demo openclassroom
+This is a README! It's for my Github mooc
